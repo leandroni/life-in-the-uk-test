@@ -433,3 +433,17 @@ Devolved administrations
 * As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
 * In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
 
+## Judiciary and Courts ##
+
+* Police and Crime Commissioners (PCCs) first elected by public in England and Wales in 2015.
+* Small Claims Procedure - England and wales for values up to £10000 and Northern Ireland and Scotland are £5000. Minor disputes without spending lots of time and money - no solicitors. Judge with both parties in a small room or online at moneyclaim.gov.uk
+
+| Type of Courts | Severity | England, Wales and Northern Ireland | Scotland |
+| Criminal | Minor | Magistrates Court - Unpaid Magistrates are part of community, NI has district Judges and are paid | Justices of the Peace |
+| Criminal | Major | Crown Court - Judge and Jury | Sheriff Court - Sheriff or Sheriff and Jury |
+| Criminal | Murders | | High Court |
+| Civil | Minor | County Court | Court of Session in Edinburgh |
+| Youth | | Youth Court - 3 Trained Magistrates and 1 District Judge, no media or public | Childrens Hearing System | 
+| Youth | Serious | Crown Court | |
+
+
