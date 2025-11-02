@@ -406,10 +406,10 @@ Devolved administrations
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | | Assembly members (AMs) | 60 | elections every 4 years, building is Senedd |
-| Scottish Parliament | 1999 | members of the Scottish Parliament (MSPs), elected via proportional representation | 129 | |
-| Northern Ireland Parliament | 1922 |  | | abolished in 1972 |
-| Northern Ireland Assembly | 1998 |  members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 108 | |
+| National Assembly of Wales | | Sennedd Members (SMs) | 60 | elections every 4 years, building is Senedd |
+| Scottish Parliament | 1999 | Members of the Scottish Parliament (MSPs) | 129 | |
+| Northern Ireland Parliament | 1922 |  | | Abolished in 1972 |
+| Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | |
 
 ## Government and politics facts ##
 
