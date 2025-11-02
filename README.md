@@ -85,7 +85,8 @@ Life in the United Kingdom (3rd edition)
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
-| 2020                | UK left the European Union | Brexit Referendum was in 2016 |
+| 2016                | Brexit Referendum | |
+| 2020                | UK left the European Union | |
 
 ### History facts ###
 
